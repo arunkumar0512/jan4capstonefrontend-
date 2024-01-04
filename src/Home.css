@@ -1,0 +1,15 @@
+.carouselposition{
+    margin-top: 10px;
+    height: 50px;
+
+}
+.d-block {
+    width: 1500px;
+    height: 500px;
+}
+
+.cardstyle{
+    display: flex;
+    justify-content: space-evenly;
+    height: 300px;
+}
